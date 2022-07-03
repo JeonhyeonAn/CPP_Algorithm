@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm", "CPP_Algori
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze", "Maze\Maze.vcxproj", "{7B2F9898-3A8D-4669-A384-F2D40EA0F78A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(1. 동적배열구현연습)", "CPP_Algorithm(1. 동적배열구현연습)\CPP_Algorithm(1. 동적배열구현연습).vcxproj", "{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(2. 연결리스트구현연습)", "CPP_Algorithm(2. 연결리스트구현연습\CPP_Algorithm(2. 연결리스트구현연습.vcxproj", "{CB06185C-9501-479A-9F98-C9EAD36B8AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{7B2F9898-3A8D-4669-A384-F2D40EA0F78A}.Release|x64.Build.0 = Release|x64
 		{7B2F9898-3A8D-4669-A384-F2D40EA0F78A}.Release|x86.ActiveCfg = Release|Win32
 		{7B2F9898-3A8D-4669-A384-F2D40EA0F78A}.Release|x86.Build.0 = Release|Win32
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Debug|x64.ActiveCfg = Debug|x64
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Debug|x64.Build.0 = Debug|x64
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Debug|x86.Build.0 = Debug|Win32
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Release|x64.ActiveCfg = Release|x64
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Release|x64.Build.0 = Release|x64
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Release|x86.ActiveCfg = Release|Win32
+		{423CD9F2-6FE9-40DC-8688-2C28ADF7D6CC}.Release|x86.Build.0 = Release|Win32
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Debug|x64.ActiveCfg = Debug|x64
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Debug|x64.Build.0 = Debug|x64
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Debug|x86.Build.0 = Debug|Win32
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Release|x64.ActiveCfg = Release|x64
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Release|x64.Build.0 = Release|x64
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Release|x86.ActiveCfg = Release|Win32
+		{CB06185C-9501-479A-9F98-C9EAD36B8AA0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
