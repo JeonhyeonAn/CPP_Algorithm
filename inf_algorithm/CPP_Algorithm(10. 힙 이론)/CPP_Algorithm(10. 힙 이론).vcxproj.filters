@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_Algorithm(10. 힙 이론).cpp">
+    <ClCompile Include="CPP_Algorithm%2810. 힙, 우선 순위 큐%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

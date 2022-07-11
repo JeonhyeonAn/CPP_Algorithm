@@ -21,6 +21,7 @@ public:
 private:
 	void RightHand();
 	void BFS();
+	void AStar();
 
 private:
 	Pos _pos = {};
