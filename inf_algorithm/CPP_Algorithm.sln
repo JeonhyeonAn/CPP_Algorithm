@@ -35,6 +35,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(13. 레드블
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(14. 정렬)", "CPP_Algorithm(14. 정렬)\CPP_Algorithm(14. 정렬).vcxproj", "{1AB09DAE-15A0-4264-A805-244FA823D18E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(15. 힙정렬과 병합정렬)", "CPP_Algorithm(15. 힙정렬과 병합정렬)\CPP_Algorithm(15. 힙정렬과 병합정렬).vcxproj", "{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(16. 퀵 정렬)", "CPP_Algorithm(16. 퀵 정렬)\CPP_Algorithm(16. 퀵 정렬).vcxproj", "{E138D2A9-CDA5-4036-8448-915EBE8FD37B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +175,22 @@ Global
 		{1AB09DAE-15A0-4264-A805-244FA823D18E}.Release|x64.Build.0 = Release|x64
 		{1AB09DAE-15A0-4264-A805-244FA823D18E}.Release|x86.ActiveCfg = Release|Win32
 		{1AB09DAE-15A0-4264-A805-244FA823D18E}.Release|x86.Build.0 = Release|Win32
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Debug|x64.ActiveCfg = Debug|x64
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Debug|x64.Build.0 = Debug|x64
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Debug|x86.Build.0 = Debug|Win32
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Release|x64.ActiveCfg = Release|x64
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Release|x64.Build.0 = Release|x64
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Release|x86.ActiveCfg = Release|Win32
+		{CBF23750-79CC-46C1-9BD8-6CA41ED668F4}.Release|x86.Build.0 = Release|Win32
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Debug|x64.ActiveCfg = Debug|x64
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Debug|x64.Build.0 = Debug|x64
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Debug|x86.Build.0 = Debug|Win32
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Release|x64.ActiveCfg = Release|x64
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Release|x64.Build.0 = Release|x64
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Release|x86.ActiveCfg = Release|Win32
+		{E138D2A9-CDA5-4036-8448-915EBE8FD37B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,4 @@
+﻿  CPP_Algorithm(15. 힙정렬과 병합정렬).cpp
+D:\XR_project\CPP_Algorithm\inf_algorithm\CPP_Algorithm(15. 힙정렬과 병합정렬)\CPP_Algorithm(15. 힙정렬과 병합정렬).cpp(100,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\XR_project\CPP_Algorithm\inf_algorithm\CPP_Algorithm(15. 힙정렬과 병합정렬)\CPP_Algorithm(15. 힙정렬과 병합정렬).cpp(114,30): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPP_Algorithm(15. 힙정렬과 병합정렬).vcxproj -> D:\XR_project\CPP_Algorithm\inf_algorithm\x64\Debug\CPP_Algorithm(15. 힙정렬과 병합정렬).exe
