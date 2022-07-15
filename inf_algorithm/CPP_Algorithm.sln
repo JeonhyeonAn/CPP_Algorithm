@@ -41,6 +41,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(16. 퀵 정�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(17. 해시 테이블)", "CPP_Algorithm(17. 해시 테이블)\CPP_Algorithm(17. 해시 테이블).vcxproj", "{4415CCD9-4665-4BF6-B286-36D185F9E812}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(18. 최소 스패닝 트리_Disjoint Set)", "CPP_Algorithm(18. 최소 스패닝 트리)\CPP_Algorithm(18. 최소 스패닝 트리).vcxproj", "{505046F4-561D-46E0-9043-B280AA8B113A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(19. 최소 스패닝 트리_Kruskal 알고리즘)", "CPP_Algorithm(19. 최소 스패닝 트리_Kruskal 알고리즘)\CPP_Algorithm(19. 최소 스패닝 트리_Kruskal 알고리즘).vcxproj", "{88EB78D2-F669-40E3-B020-8CD3BB68B125}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Alogrithm(19. 최소 스패닝 트리_Prim 알고리즘)", "CPP_Alogrithm(19. 최소 스패닝 트리_Prim 알고리즘)\CPP_Alogrithm(19. 최소 스패닝 트리_Prim 알고리즘).vcxproj", "{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +207,30 @@ Global
 		{4415CCD9-4665-4BF6-B286-36D185F9E812}.Release|x64.Build.0 = Release|x64
 		{4415CCD9-4665-4BF6-B286-36D185F9E812}.Release|x86.ActiveCfg = Release|Win32
 		{4415CCD9-4665-4BF6-B286-36D185F9E812}.Release|x86.Build.0 = Release|Win32
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Debug|x64.ActiveCfg = Debug|x64
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Debug|x64.Build.0 = Debug|x64
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Debug|x86.ActiveCfg = Debug|Win32
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Debug|x86.Build.0 = Debug|Win32
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Release|x64.ActiveCfg = Release|x64
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Release|x64.Build.0 = Release|x64
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Release|x86.ActiveCfg = Release|Win32
+		{505046F4-561D-46E0-9043-B280AA8B113A}.Release|x86.Build.0 = Release|Win32
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Debug|x64.ActiveCfg = Debug|x64
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Debug|x64.Build.0 = Debug|x64
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Debug|x86.ActiveCfg = Debug|Win32
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Debug|x86.Build.0 = Debug|Win32
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Release|x64.ActiveCfg = Release|x64
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Release|x64.Build.0 = Release|x64
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Release|x86.ActiveCfg = Release|Win32
+		{88EB78D2-F669-40E3-B020-8CD3BB68B125}.Release|x86.Build.0 = Release|Win32
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Debug|x64.ActiveCfg = Debug|x64
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Debug|x64.Build.0 = Debug|x64
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Debug|x86.Build.0 = Debug|Win32
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Release|x64.ActiveCfg = Release|x64
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Release|x64.Build.0 = Release|x64
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Release|x86.ActiveCfg = Release|Win32
+		{2A28579B-E5DF-446C-BC42-27EB8E3D2A49}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

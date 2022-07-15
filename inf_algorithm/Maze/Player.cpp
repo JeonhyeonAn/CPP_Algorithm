@@ -19,7 +19,8 @@ void Player::Update(uint64 deltaTick)
 	if (_pathIndex >= _path.size())
 	{	
 		// 반복
-		_board->GenerateMap();
+		//_board->GenerateMap_Kruskal();
+		_board->GenerateMap_Prim();
 		Init(_board);		
 
 		return;
@@ -223,7 +224,7 @@ void Player::AStar()
 
 	enum 
 	{
-		DIR_COUNT = 8		// 대각선 = 8
+		DIR_COUNT = 4		// 대각선 = 8
 	};
 
 	Pos front[8] =

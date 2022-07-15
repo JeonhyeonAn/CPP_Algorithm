@@ -1,3 +1,2 @@
-﻿  Player.cpp
-D:\XR_project\CPP_Algorithm\inf_algorithm\Maze\pch.h(38): warning C4172: 지역 변수 또는 임시: ret의 주소를 반환하고 있습니다.
+﻿  Board.cpp
   Maze.vcxproj -> D:\XR_project\CPP_Algorithm\inf_algorithm\x64\Debug\Maze.exe
