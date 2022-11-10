@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(23. DP_TiC-TA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Algorithm(24. Enchant)", "CPP_Algorithm(24. Enchant)\CPP_Algorithm(24. Enchant).vcxproj", "{BDF8A6E9-788E-4FE9-8F4A-8BDE5B5E1F58}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Alogithm(25. Kart-Rider)", "CPP_Alogithm(25. Kart-Rider)\CPP_Alogithm(25. Kart-Rider).vcxproj", "{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{BDF8A6E9-788E-4FE9-8F4A-8BDE5B5E1F58}.Release|x64.Build.0 = Release|x64
 		{BDF8A6E9-788E-4FE9-8F4A-8BDE5B5E1F58}.Release|x86.ActiveCfg = Release|Win32
 		{BDF8A6E9-788E-4FE9-8F4A-8BDE5B5E1F58}.Release|x86.Build.0 = Release|Win32
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Debug|x64.ActiveCfg = Debug|x64
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Debug|x64.Build.0 = Debug|x64
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Debug|x86.Build.0 = Debug|Win32
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Release|x64.ActiveCfg = Release|x64
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Release|x64.Build.0 = Release|x64
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Release|x86.ActiveCfg = Release|Win32
+		{B0F1B9B6-E399-4B94-AC25-DD2AEE535A02}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
